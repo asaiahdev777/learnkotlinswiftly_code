@@ -1,0 +1,1 @@
+Here's the source code for the Learn Kotlin Swiftly book. The source files included are categorized according to topic, and are replete with explanatory comments. Be sure to check out the book at https://github.com/asaiahdev777/learnkotlinswiftly_book.
